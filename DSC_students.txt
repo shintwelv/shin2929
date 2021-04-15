@@ -1,0 +1,962 @@
+<table class="roster ic-Table ic-Table--hover-row ic-Table--condensed ic-Table--striped">
+    <thead>
+      <tr>
+        <th scope="col"><span class="screenreader-only">Profile Picture</span></th>
+        <th scope="col">이름</th>
+        
+        
+        
+        <th scope="col">섹션</th>
+        
+        <th scope="col">역할</th><th>학과</th>
+        
+        <th scope="col"><span class="screenreader-only">Administrative Links</span></th>
+      </tr>
+    </thead>
+    <tbody class="collectionViewItems"><tr class="rosterUser al-hover-container StudentEnrollment" id="user_82983"><td class="center">
+  <div id="user-avatar-people-page-ZSbJX64zymb62ju_Zc-QD"><a href="users/82983"><span name="GAO JIN(2021####17)" src="https://canvas.skku.edu/images/thumbnails/2243055/ndc3ULQVYOcOl1z5PxwPqHIXRududxlYzTLGFbv8" alt="GAO JIN(2021####17)" shape="circle" aria-label="GAO JIN(2021####17)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/2243055/ndc3ULQVYOcOl1z5PxwPqHIXRududxlYzTLGFbv8&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/2243055/ndc3ULQVYOcOl1z5PxwPqHIXRududxlYzTLGFbv8" class="bpunF_MrJH" alt="GAO JIN(2021####17)" aria-hidden="true"></span><span class="screenreader-only">GAO JIN(2021####17)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/82983" data-student_id="82983" data-course_id="19662" class="roster_user_name student_context_card_trigger">GAO JIN(2021####17)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_82450"><td class="center">
+  <div id="user-avatar-people-page-BeSxEtn7NRuVMs74dO3mQ"><a href="users/82450"><span name="Ngo Huy(2021####64)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="Ngo Huy(2021####64)" shape="circle" aria-label="Ngo Huy(2021####64)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="Ngo Huy(2021####64)" aria-hidden="true"></span><span class="screenreader-only">Ngo Huy(2021####64)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/82450" data-student_id="82450" data-course_id="19662" class="roster_user_name student_context_card_trigger">Ngo Huy(2021####64)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container TeacherEnrollment" id="user_39371"><td class="center">
+  <div id="user-avatar-people-page-cT53mJXqXxTEvrM78Fe_a"><a href="users/39371"><span name="가야트리나다라잔(NADARAJAN GAYATHRI)" src="https://canvas.skku.edu/images/thumbnails/62204/fFDgAvxt2bobnMNR9KgQLQ9uhiN0UP3gqfd0dHCK" alt="가야트리나다라잔(NADARAJAN GAYATHRI)" shape="circle" aria-label="가야트리나다라잔(NADARAJAN GAYATHRI)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/62204/fFDgAvxt2bobnMNR9KgQLQ9uhiN0UP3gqfd0dHCK&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/62204/fFDgAvxt2bobnMNR9KgQLQ9uhiN0UP3gqfd0dHCK" class="bpunF_MrJH" alt="가야트리나다라잔(NADARAJAN GAYATHRI)" aria-hidden="true"></span><span class="screenreader-only">가야트리나다라잔(NADARAJAN GAYATHRI)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/39371" data-student_id="39371" data-course_id="" class="roster_user_name student_context_card_trigger">가야트리나다라잔(NADARAJAN GAYATHRI)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>교수</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_30596"><td class="center">
+  <div id="user-avatar-people-page-PG3ls-JqQIDpb4dR5SMnu"><a href="users/30596"><span name="강민규(2019####42)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="강민규(2019####42)" shape="circle" aria-label="강민규(2019####42)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="강민규(2019####42)" aria-hidden="true"></span><span class="screenreader-only">강민규(2019####42)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/30596" data-student_id="30596" data-course_id="19662" class="roster_user_name student_context_card_trigger">강민규(2019####42)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_33320"><td class="center">
+  <div id="user-avatar-people-page-6qNLg4xU8GaPYhBdzBPww"><a href="users/33320"><span name="권희성(2019####96)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="권희성(2019####96)" shape="circle" aria-label="권희성(2019####96)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="권희성(2019####96)" aria-hidden="true"></span><span class="screenreader-only">권희성(2019####96)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/33320" data-student_id="33320" data-course_id="19662" class="roster_user_name student_context_card_trigger">권희성(2019####96)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_63382"><td class="center">
+  <div id="user-avatar-people-page-Nn5y30P6WIxg69sWXNeM5"><a href="users/63382"><span name="김민(2020####05)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="김민(2020####05)" shape="circle" aria-label="김민(2020####05)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="김민(2020####05)" aria-hidden="true"></span><span class="screenreader-only">김민(2020####05)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/63382" data-student_id="63382" data-course_id="19662" class="roster_user_name student_context_card_trigger">김민(2020####05)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_56819"><td class="center">
+  <div id="user-avatar-people-page-onzsFFi2eNcG0kdAVufZl"><a href="users/56819"><span name="김보현(2020####43)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="김보현(2020####43)" shape="circle" aria-label="김보현(2020####43)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="김보현(2020####43)" aria-hidden="true"></span><span class="screenreader-only">김보현(2020####43)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/56819" data-student_id="56819" data-course_id="19662" class="roster_user_name student_context_card_trigger">김보현(2020####43)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_58260"><td class="center">
+  <div id="user-avatar-people-page-kceLyg_T2rD_I-t48Thdw"><a href="users/58260"><span name="김상준(2020####23)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="김상준(2020####23)" shape="circle" aria-label="김상준(2020####23)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="김상준(2020####23)" aria-hidden="true"></span><span class="screenreader-only">김상준(2020####23)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/58260" data-student_id="58260" data-course_id="19662" class="roster_user_name student_context_card_trigger">김상준(2020####23)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_65346"><td class="center">
+  <div id="user-avatar-people-page-Gq7bpn2GC62XSUIAoKMi-"><a href="users/65346"><span name="김선호(2020####48)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="김선호(2020####48)" shape="circle" aria-label="김선호(2020####48)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="김선호(2020####48)" aria-hidden="true"></span><span class="screenreader-only">김선호(2020####48)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/65346" data-student_id="65346" data-course_id="19662" class="roster_user_name student_context_card_trigger">김선호(2020####48)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_32445"><td class="center">
+  <div id="user-avatar-people-page-8oU3yb2NuarSMbkDVvYiO"><a href="users/32445"><span name="김수민(2019####61)" src="https://canvas.skku.edu/images/thumbnails/1276275/t5JUuaHEtoxpzikB7B3Dpj5zrbQuCiTkYKIO89h7" alt="김수민(2019####61)" shape="circle" aria-label="김수민(2019####61)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/1276275/t5JUuaHEtoxpzikB7B3Dpj5zrbQuCiTkYKIO89h7&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/1276275/t5JUuaHEtoxpzikB7B3Dpj5zrbQuCiTkYKIO89h7" class="bpunF_MrJH" alt="김수민(2019####61)" aria-hidden="true"></span><span class="screenreader-only">김수민(2019####61)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/32445" data-student_id="32445" data-course_id="19662" class="roster_user_name student_context_card_trigger">김수민(2019####61)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_33003"><td class="center">
+  <div id="user-avatar-people-page-p9hvl0dPBF7eNEIbeDkE0"><a href="users/33003"><span name="김예훈(2019####60)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="김예훈(2019####60)" shape="circle" aria-label="김예훈(2019####60)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="김예훈(2019####60)" aria-hidden="true"></span><span class="screenreader-only">김예훈(2019####60)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/33003" data-student_id="33003" data-course_id="19662" class="roster_user_name student_context_card_trigger">김예훈(2019####60)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_66646"><td class="center">
+  <div id="user-avatar-people-page-1HqCVCZEIeVdEsGSPBq_F"><a href="users/66646"><span name="김은지(2020####98)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="김은지(2020####98)" shape="circle" aria-label="김은지(2020####98)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="김은지(2020####98)" aria-hidden="true"></span><span class="screenreader-only">김은지(2020####98)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/66646" data-student_id="66646" data-course_id="19662" class="roster_user_name student_context_card_trigger">김은지(2020####98)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_17272"><td class="center">
+  <div id="user-avatar-people-page-wps5F2ZdwUCwoKP6nsHlk"><a href="users/17272"><span name="박세이(2017####32)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="박세이(2017####32)" shape="circle" aria-label="박세이(2017####32)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="박세이(2017####32)" aria-hidden="true"></span><span class="screenreader-only">박세이(2017####32)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/17272" data-student_id="17272" data-course_id="19662" class="roster_user_name student_context_card_trigger">박세이(2017####32)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_65188"><td class="center">
+  <div id="user-avatar-people-page-Nix5v-nl8MxlKfOYqWcUC"><a href="users/65188"><span name="박우혁(2020####97)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="박우혁(2020####97)" shape="circle" aria-label="박우혁(2020####97)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="박우혁(2020####97)" aria-hidden="true"></span><span class="screenreader-only">박우혁(2020####97)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/65188" data-student_id="65188" data-course_id="19662" class="roster_user_name student_context_card_trigger">박우혁(2020####97)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_61657"><td class="center">
+  <div id="user-avatar-people-page-GncLwnqePCKoRbeuQZOlq"><a href="users/61657"><span name="백유미(2020####98)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="백유미(2020####98)" shape="circle" aria-label="백유미(2020####98)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="백유미(2020####98)" aria-hidden="true"></span><span class="screenreader-only">백유미(2020####98)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/61657" data-student_id="61657" data-course_id="19662" class="roster_user_name student_context_card_trigger">백유미(2020####98)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_65627"><td class="center">
+  <div id="user-avatar-people-page-0pzIkPbDxMwyFYEqJIcXh"><a href="users/65627"><span name="서성현(2020####38)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="서성현(2020####38)" shape="circle" aria-label="서성현(2020####38)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="서성현(2020####38)" aria-hidden="true"></span><span class="screenreader-only">서성현(2020####38)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/65627" data-student_id="65627" data-course_id="19662" class="roster_user_name student_context_card_trigger">서성현(2020####38)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_57984"><td class="center">
+  <div id="user-avatar-people-page-VbvLGjR5fe4WfE7sbDGvx"><a href="users/57984"><span name="선해라(2020####28)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="선해라(2020####28)" shape="circle" aria-label="선해라(2020####28)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="선해라(2020####28)" aria-hidden="true"></span><span class="screenreader-only">선해라(2020####28)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/57984" data-student_id="57984" data-course_id="19662" class="roster_user_name student_context_card_trigger">선해라(2020####28)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_19337"><td class="center">
+  <div id="user-avatar-people-page-jO0n3BJ17srSG3OawVhSV"><a href="users/19337"><span name="손건호(2017####57)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="손건호(2017####57)" shape="circle" aria-label="손건호(2017####57)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="손건호(2017####57)" aria-hidden="true"></span><span class="screenreader-only">손건호(2017####57)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/19337" data-student_id="19337" data-course_id="19662" class="roster_user_name student_context_card_trigger">손건호(2017####57)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container TaEnrollment" id="user_31032"><td class="center">
+  <div id="user-avatar-people-page-BByvchQSVUzlWcGowVNFm"><a href="users/31032"><span name="송재현(2019####21)" src="https://canvas.skku.edu/images/thumbnails/2351486/9Wo9d3V6RPscwfqDjyebExDUBgHdTk3g9LNA2Sp8" alt="송재현(2019####21)" shape="circle" aria-label="송재현(2019####21)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/2351486/9Wo9d3V6RPscwfqDjyebExDUBgHdTk3g9LNA2Sp8&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/2351486/9Wo9d3V6RPscwfqDjyebExDUBgHdTk3g9LNA2Sp8" class="bpunF_MrJH" alt="송재현(2019####21)" aria-hidden="true"></span><span class="screenreader-only">송재현(2019####21)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/31032" data-student_id="31032" data-course_id="" class="roster_user_name student_context_card_trigger">송재현(2019####21)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>조교</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_22462"><td class="center">
+  <div id="user-avatar-people-page-frkv6T1fUitYxw1EGx2uJ"><a href="users/22462"><span name="신민경(2018####29)" src="https://canvas.skku.edu/images/thumbnails/695896/Cgxb6PkicXaANJ5kCc7Z00c2UYItBFqphmvKz5RH" alt="신민경(2018####29)" shape="circle" aria-label="신민경(2018####29)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/695896/Cgxb6PkicXaANJ5kCc7Z00c2UYItBFqphmvKz5RH&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/695896/Cgxb6PkicXaANJ5kCc7Z00c2UYItBFqphmvKz5RH" class="bpunF_MrJH" alt="신민경(2018####29)" aria-hidden="true"></span><span class="screenreader-only">신민경(2018####29)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/22462" data-student_id="22462" data-course_id="19662" class="roster_user_name student_context_card_trigger">신민경(2018####29)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_67262"><td class="center">
+  <div id="user-avatar-people-page-mbRRo36v7pD5YH8ekrue9"><a href="users/67262"><span name="양대찬(2020####57)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="양대찬(2020####57)" shape="circle" aria-label="양대찬(2020####57)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="양대찬(2020####57)" aria-hidden="true"></span><span class="screenreader-only">양대찬(2020####57)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/67262" data-student_id="67262" data-course_id="19662" class="roster_user_name student_context_card_trigger">양대찬(2020####57)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_65608"><td class="center">
+  <div id="user-avatar-people-page-Lc2QEU2H5XvDJ5DhDUCgC"><a href="users/65608"><span name="우다연(2020####08)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="우다연(2020####08)" shape="circle" aria-label="우다연(2020####08)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="우다연(2020####08)" aria-hidden="true"></span><span class="screenreader-only">우다연(2020####08)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/65608" data-student_id="65608" data-course_id="19662" class="roster_user_name student_context_card_trigger">우다연(2020####08)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_57835"><td class="center">
+  <div id="user-avatar-people-page-JZM_KrzMC6rF5GayNe9RE"><a href="users/57835"><span name="이상훈(2020####60)" src="https://canvas.skku.edu/images/thumbnails/2109941/BL6qlGeMYpJxqC38TTqvPVk1dWA3c3WEk8bfB6h5" alt="이상훈(2020####60)" shape="circle" aria-label="이상훈(2020####60)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/2109941/BL6qlGeMYpJxqC38TTqvPVk1dWA3c3WEk8bfB6h5&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/2109941/BL6qlGeMYpJxqC38TTqvPVk1dWA3c3WEk8bfB6h5" class="bpunF_MrJH" alt="이상훈(2020####60)" aria-hidden="true"></span><span class="screenreader-only">이상훈(2020####60)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/57835" data-student_id="57835" data-course_id="19662" class="roster_user_name student_context_card_trigger">이상훈(2020####60)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_22979"><td class="center">
+  <div id="user-avatar-people-page-MrAgC-B7zQ6TeXUi9ZaL8"><a href="users/22979"><span name="이수민(2018####93)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="이수민(2018####93)" shape="circle" aria-label="이수민(2018####93)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="이수민(2018####93)" aria-hidden="true"></span><span class="screenreader-only">이수민(2018####93)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/22979" data-student_id="22979" data-course_id="19662" class="roster_user_name student_context_card_trigger">이수민(2018####93)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_5359"><td class="center">
+  <div id="user-avatar-people-page-lYAqwReeJ7q18dRRpFEkw"><a href="users/5359"><span name="이영돈(2014####29)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="이영돈(2014####29)" shape="circle" aria-label="이영돈(2014####29)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="이영돈(2014####29)" aria-hidden="true"></span><span class="screenreader-only">이영돈(2014####29)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/5359" data-student_id="5359" data-course_id="19662" class="roster_user_name student_context_card_trigger">이영돈(2014####29)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_23037"><td class="center">
+  <div id="user-avatar-people-page-SY9MstGjX7bZb0aSg1hjw"><a href="users/23037"><span name="이유민(2018####68)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="이유민(2018####68)" shape="circle" aria-label="이유민(2018####68)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="이유민(2018####68)" aria-hidden="true"></span><span class="screenreader-only">이유민(2018####68)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/23037" data-student_id="23037" data-course_id="19662" class="roster_user_name student_context_card_trigger">이유민(2018####68)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_57073"><td class="center">
+  <div id="user-avatar-people-page-m3td_WJvUTFM8d-rgsb3k"><a href="users/57073"><span name="이유정(2020####02)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="이유정(2020####02)" shape="circle" aria-label="이유정(2020####02)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="이유정(2020####02)" aria-hidden="true"></span><span class="screenreader-only">이유정(2020####02)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/57073" data-student_id="57073" data-course_id="19662" class="roster_user_name student_context_card_trigger">이유정(2020####02)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_66642"><td class="center">
+  <div id="user-avatar-people-page-lufui6V8v2IcTXOXaDsKF"><a href="users/66642"><span name="이종원(2020####34)" src="https://canvas.skku.edu/images/thumbnails/143009/dG9rz4q3XStUkm2cP023ZNxuk7gPMU3bMWANzKxf" alt="이종원(2020####34)" shape="circle" aria-label="이종원(2020####34)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/143009/dG9rz4q3XStUkm2cP023ZNxuk7gPMU3bMWANzKxf&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/143009/dG9rz4q3XStUkm2cP023ZNxuk7gPMU3bMWANzKxf" class="bpunF_MrJH" alt="이종원(2020####34)" aria-hidden="true"></span><span class="screenreader-only">이종원(2020####34)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/66642" data-student_id="66642" data-course_id="19662" class="roster_user_name student_context_card_trigger">이종원(2020####34)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_32326"><td class="center">
+  <div id="user-avatar-people-page-B68bUGn8jZzpMFF1UpABA"><a href="users/32326"><span name="전효림(2019####40)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="전효림(2019####40)" shape="circle" aria-label="전효림(2019####40)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="전효림(2019####40)" aria-hidden="true"></span><span class="screenreader-only">전효림(2019####40)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/32326" data-student_id="32326" data-course_id="19662" class="roster_user_name student_context_card_trigger">전효림(2019####40)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_58576"><td class="center">
+  <div id="user-avatar-people-page-GdoPMBr3HE-LFg-FRBg2G"><a href="users/58576"><span name="정주원(2020####20)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="정주원(2020####20)" shape="circle" aria-label="정주원(2020####20)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="정주원(2020####20)" aria-hidden="true"></span><span class="screenreader-only">정주원(2020####20)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/58576" data-student_id="58576" data-course_id="19662" class="roster_user_name student_context_card_trigger">정주원(2020####20)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_6317"><td class="center">
+  <div id="user-avatar-people-page-nSrlH2MW69pYoV6MsSflK"><a href="users/6317"><span name="조민성(2014####44)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="조민성(2014####44)" shape="circle" aria-label="조민성(2014####44)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="조민성(2014####44)" aria-hidden="true"></span><span class="screenreader-only">조민성(2014####44)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/6317" data-student_id="6317" data-course_id="19662" class="roster_user_name student_context_card_trigger">조민성(2014####44)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_24128"><td class="center">
+  <div id="user-avatar-people-page-YlKd83QWinMY_WZki1TZK"><a href="users/24128"><span name="조은빈(2018####85)" src="https://canvas.skku.edu/images/thumbnails/2239902/5nJlAuWzScaJ3c3xbz9xfwiQysz779EFlVfttlpj" alt="조은빈(2018####85)" shape="circle" aria-label="조은빈(2018####85)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/2239902/5nJlAuWzScaJ3c3xbz9xfwiQysz779EFlVfttlpj&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/2239902/5nJlAuWzScaJ3c3xbz9xfwiQysz779EFlVfttlpj" class="bpunF_MrJH" alt="조은빈(2018####85)" aria-hidden="true"></span><span class="screenreader-only">조은빈(2018####85)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/24128" data-student_id="24128" data-course_id="19662" class="roster_user_name student_context_card_trigger">조은빈(2018####85)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_30298"><td class="center">
+  <div id="user-avatar-people-page-VJ5o02iKrj3sb3YDsOPhW"><a href="users/30298"><span name="한민지(2019####73)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="한민지(2019####73)" shape="circle" aria-label="한민지(2019####73)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="한민지(2019####73)" aria-hidden="true"></span><span class="screenreader-only">한민지(2019####73)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/30298" data-student_id="30298" data-course_id="19662" class="roster_user_name student_context_card_trigger">한민지(2019####73)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_86000"><td class="center">
+  <div id="user-avatar-people-page-VnMnTtDjNt4MCpKNc-6Bu"><a href="users/86000"><span name="한지원(2019####51)" src="https://canvas.skku.edu/images/messages/avatar-50.png" alt="한지원(2019####51)" shape="circle" aria-label="한지원(2019####51)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/messages/avatar-50.png&quot;);"><img src="https://canvas.skku.edu/images/messages/avatar-50.png" class="bpunF_MrJH" alt="한지원(2019####51)" aria-hidden="true"></span><span class="screenreader-only">한지원(2019####51)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/86000" data-student_id="86000" data-course_id="19662" class="roster_user_name student_context_card_trigger">한지원(2019####51)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr><tr class="rosterUser al-hover-container StudentEnrollment" id="user_12268"><td class="center">
+  <div id="user-avatar-people-page-iWGGayctotLK_FctzMhCE"><a href="users/12268"><span name="허신일(2016####78)" src="https://canvas.skku.edu/images/thumbnails/676430/dFpEi43ONCpi4frjHIk88f3LfOF2C1eFSnfT9Asn" alt="허신일(2016####78)" shape="circle" aria-label="허신일(2016####78)" role="img" class="fOyUs_bGBk fOyUs_cuDs bpunF_bGBk bpunF_doqw bpunF_cJVF" style="background-image: url(&quot;https://canvas.skku.edu/images/thumbnails/676430/dFpEi43ONCpi4frjHIk88f3LfOF2C1eFSnfT9Asn&quot;);"><img src="https://canvas.skku.edu/images/thumbnails/676430/dFpEi43ONCpi4frjHIk88f3LfOF2C1eFSnfT9Asn" class="bpunF_MrJH" alt="허신일(2016####78)" aria-hidden="true"></span><span class="screenreader-only">허신일(2016####78)</span></a></div>
+</td>
+<td>
+  <a href="https://canvas.skku.edu/courses/19662/users/12268" data-student_id="12268" data-course_id="19662" class="roster_user_name student_context_card_trigger">허신일(2016####78)
+</a>
+  
+  
+</td>
+
+
+
+<td data-test-id="section-column-cell">
+  
+  <div class="section">Data Science and R_DSC2005_01(가야트리나다라잔)</div>
+  
+</td>
+
+<td>
+  
+  <div>학생</div>
+  
+</td><td></td>
+
+<td class="right">
+  
+</td>
+</tr></tbody>
+  </table>
